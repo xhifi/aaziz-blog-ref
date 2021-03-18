@@ -1,0 +1,32 @@
+title: Blog | AAziz & Co.
+email: info@aazizandco.co.uk
+author: brianloggers
+copyright: Copyright © 2021
+description: >-
+  This is a basic client update blog service for the people of the UK by AAziz &
+  Co. Accountants.
+baseurl: /
+url: 'https://xhifi.github.io/aaziz-blog-ref/'
+favicon: 'https://aaziz-blog-data.s3.eu-west-2.amazonaws.com/%21CAUTION%21/favicon.ico'
+yat:
+  date_format: '%b %d, %Y'
+theme_color: snowwhite
+defaults: null
+home:
+  heading: Welcome to the blog of AAziz & Co. Accountants and Tax Consultants
+  subheading: >-
+    We provide you the most up-to-date information in the hostile tax
+    environment of the United Kingdom from credible sources such as GOV.UK after
+    verifying the legitimacy of the posts ourselves.
+  banner: >-
+    /assets/images/banners/home.jpg
+paginate: 10
+markdown: kramdown
+kmarkdown:
+  input: GFM
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-spaceship
