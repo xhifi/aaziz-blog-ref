@@ -1,4 +1,4 @@
-title: Blog | AAziz & Co.
+title: Reference | AAziz & Co.
 email: info@aazizandco.co.uk
 author: brianloggers
 copyright: Copyright © 2021
@@ -6,7 +6,7 @@ description: >-
   This is a basic client update blog service for the people of the UK by AAziz &
   Co. Accountants.
 baseurl: /
-url: 'https://xhifi.github.io/aaziz-blog-ref/'
+url: 'reference.aazizandco.co.uk'
 favicon: 'https://aaziz-blog-data.s3.eu-west-2.amazonaws.com/%21CAUTION%21/favicon.ico'
 yat:
   date_format: '%b %d, %Y'
